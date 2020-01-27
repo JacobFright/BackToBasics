@@ -1,0 +1,6 @@
+C:\Users\jacob.fright\Documents\Testing\BasicsCSharpe\BasicsCSharpe\bin\Debug\BasicsCSharpe.exe.config
+C:\Users\jacob.fright\Documents\Testing\BasicsCSharpe\BasicsCSharpe\bin\Debug\BasicsCSharpe.exe
+C:\Users\jacob.fright\Documents\Testing\BasicsCSharpe\BasicsCSharpe\bin\Debug\BasicsCSharpe.pdb
+C:\Users\jacob.fright\Documents\Testing\BasicsCSharpe\BasicsCSharpe\obj\Debug\BasicsCSharpe.csprojAssemblyReference.cache
+C:\Users\jacob.fright\Documents\Testing\BasicsCSharpe\BasicsCSharpe\obj\Debug\BasicsCSharpe.exe
+C:\Users\jacob.fright\Documents\Testing\BasicsCSharpe\BasicsCSharpe\obj\Debug\BasicsCSharpe.pdb
