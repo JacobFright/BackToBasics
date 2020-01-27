@@ -10,6 +10,11 @@ namespace BasicsCSharpe
     {
         static void Main(string[] args)
         {
+            helloWorld();
+        }
+
+        private static void helloWorld()
+        {
             Console.WriteLine("Hello World");
             Console.ReadKey();
         }
